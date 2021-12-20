@@ -1,0 +1,9 @@
+#input, #output {
+    width: 40%;
+    height: 300px;
+}
+
+header, main {
+    display: flex;
+    justify-content: center;
+}
